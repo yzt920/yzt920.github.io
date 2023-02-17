@@ -1,5 +1,6 @@
 ## Welcome to Yang Zitong's page
 
+I am a undergraduate major in psychology in Sun-yat sen university.I am interested in cognitive psychology.
 You can use the [editor on GitHub](https://github.com/yzt920/yzt920.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
