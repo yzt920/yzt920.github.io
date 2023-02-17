@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to Yang Zitong's page
 
 You can use the [editor on GitHub](https://github.com/yzt920/yzt920.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
 
